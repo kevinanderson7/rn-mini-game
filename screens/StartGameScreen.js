@@ -1,6 +1,6 @@
 import { TextInput, View, StyleSheet, Alert } from "react-native";
 import Colors from "../constants/colors";
-import PrimaryButton from "../components/PrimaryButton";
+import PrimaryButton from "../components/ui/PrimaryButton";
 import { useState } from "react";
 
 function StartGameScreen({ onConfirmNumber }) {
